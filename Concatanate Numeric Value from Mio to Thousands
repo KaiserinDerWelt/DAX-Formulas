@@ -1,0 +1,1 @@
+Measure = ([YourValue] / 1000) & "K"
